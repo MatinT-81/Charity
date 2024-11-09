@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-05 08:15+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\apps.py:7
+msgid "charities"
+msgstr "خیریه ها"
+
+#: .\models.py:10
+msgid "Beginner"
+msgstr "مبتدی"
+
+#: .\models.py:11
+msgid "Intermediate"
+msgstr "متوسط"
+
+#: .\models.py:12
+msgid "Expert"
+msgstr "متخصص"
+
+#: .\models.py:14 .\models.py:27
+msgid "user"
+msgstr "کاربر"
+
+#: .\models.py:15
+msgid "experience"
+msgstr "سطح تجربه"
+
+#: .\models.py:16
+msgid "free time per week"
+msgstr "وقت آزاد در هفته"
+
+#: .\models.py:19
+msgid "Benefactor"
+msgstr "نیکوکار"
+
+#: .\models.py:20
+msgid "Benefactors"
+msgstr "نیکوکاران"
+
+#: .\models.py:28
+msgid "name"
+msgstr "نام"
+
+#: .\models.py:29
+msgid "reg_number"
+msgstr "شماره ثبت"
+
+#: .\models.py:32
+msgid "Charity"
+msgstr "خیریه"
+
+#: .\models.py:33
+msgid "Charities"
+msgstr "خیریه ها"
+
+#: .\models.py:65
+msgid "Pending"
+msgstr "درحال ارسال"
+
+#: .\models.py:66
+msgid "Waiting"
+msgstr "درحال انتظار"
+
+#: .\models.py:67
+msgid "Assigned"
+msgstr "ثبت شده"
+
+#: .\models.py:68
+msgid "Done"
+msgstr "انجام شده"
+
+#: .\models.py:70
+msgid "title"
+msgstr "تیتر"
+
+#: .\models.py:71
+msgid "state"
+msgstr "وضعیت"
+
+#: .\models.py:72
+msgid "charity"
+msgstr "خیریه"
+
+#: .\models.py:73
+msgid "description"
+msgstr "توضیحات"
+
+#: .\models.py:74
+msgid "assigned_benefactor"
+msgstr "نیکوکار ثبت شده"
+
+#: .\models.py:75
+msgid "date"
+msgstr "تاریخ"
+
+#: .\models.py:76
+msgid "age limit from"
+msgstr "محدودیت سن از"
+
+#: .\models.py:77
+msgid "age limit to"
+msgstr "محدودیت سن تا"
+
+#: .\models.py:78
+msgid "gender"
+msgstr "جنسیت"
+
+#: .\models.py:82
+msgid "Task"
+msgstr "تسک"
+
+#: .\models.py:83
+msgid "Tasks"
+msgstr "تسک ها"
+
+#, fuzzy
+#~| msgid "experience"
+#~ msgid "experinces"
+#~ msgstr "سطح تجربه"
+
+#~ msgid "users"
+#~ msgstr "کاربران"
